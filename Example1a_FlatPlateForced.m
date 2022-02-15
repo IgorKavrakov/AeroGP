@@ -16,8 +16,6 @@ addpath(genpath('GP'),'Example1_FlatPlateAnalytical');
 % The script is based on the aforementioned article
 % This script includes the results from Sec. 3 (Fundamental Application: Flat Plate)
 
-
-
 %%%%%%%%% COPYRIGHT NOTICE %%%%%%%%% 
 %  This file is part of AeroGP.
 %  AeroGP is free software: you can redistribute it and/or modify

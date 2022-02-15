@@ -2,6 +2,9 @@
 clear all;  clc;  restoredefaultpath; matlabrc; close all;
 addpath(genpath('GP'),'Example1_FlatPlateAnalytical');
 
+% AeroGP: Data-driven model for aerodynamic analyses of structures using Gaussian Processes (GP)
+% Please cite our work when you are you are using our software in your research or publications:
+
 % Kavrakov, I., McRobie, A., and Morgenthal, G. 2022. Data-driven aerodynamic analysis of structures using Gaussian Processes. 
 % J. Wind Eng. Ind. Aerodyn., 222, 104911. 
 % https://doi.org/10.1016/j.jweia.2022.104911
