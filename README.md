@@ -2,7 +2,7 @@
 AeroGP: Data-driven model for aerodynamic analyses of structures using Gaussian Processes (GP)
 
 Cite:
-Kavrakov, I., McRobie, A., and Morgenthal, G. 2022. Data-driven Aerodynamic Analysis of Structures using Gaussian Processes. J. Wind Eng. Ind. Aerodyn., 146 (9), 040200093. https://https://doi.org/10.1016/j.jweia.2022.104911
+Kavrakov, I., McRobie, A., and Morgenthal, G. 2022. Data-driven Aerodynamic Analysis of Structures using Gaussian Processes. J. Wind Eng. Ind. Aerodyn., 146 (9), 040200093. https://doi.org/10.1016/j.jweia.2022.104911
 
 AeroGP is a Matlab-based computer code that verifies a Nonlinear Finite Response Model based on Gaussian Processes (GP-NFIR) for aerodynamic analyses of linelike structures.
 The scripts Example1a_FlatPlateForced.m and Example1b_FlatPlateFlutter.m contain the verification of the model for a Flat Plate.
